@@ -1,0 +1,44 @@
+.head{
+    text-align: center;
+    color: bisque;
+    background-color: darkgray;
+    border: 2px solid black;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.para{
+    text-align: center;
+    color: rgb(115, 30, 141);
+    background-color: rgb(190, 240, 105);
+    border: 3px groove aquamarine;
+    border-radius: 1rem;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+#video{
+    text-align: center;
+    color: mediumpurple;
+    background-color: navajowhite;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 2px solid mediumblue;
+    border-radius: 5px;
+}
+
+.link{
+    text-align: center;
+}
+*{
+    background-color: rgb(203, 179, 226);
+}
